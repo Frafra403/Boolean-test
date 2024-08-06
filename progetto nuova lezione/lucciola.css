@@ -1,0 +1,75 @@
+
+/* IMPOSTAZIONI PAGINA */
+*{
+   margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+ background-image: url(background.jpg);
+ background-size: cover;
+}
+
+.quadrato{
+  width: 80%;
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: auto;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  border-radius: 5%;
+}
+
+/* LOGO */
+.LOGO{
+ width: 30%;
+ margin-left: 350px;
+}
+
+.LOGOTEXT{
+  color: rgb(0, 255, 54);
+  margin-left: 310px;
+}
+
+/* barra di ricerca */
+.barra-ricerca{
+  width: 80%;
+  height: 40px;
+  margin: auto;
+  background-color: rgb(0, 255, 54);
+}
+
+.ricerca-text{
+  padding-left: 300px;
+  padding-top: 9px;
+}
+
+/* Contenuto pagina */
+
+.contenuto{
+  color: white;
+  padding-left: 108px;
+  margin-top: 10px;
+}
+
+.stato-carica-giallo{
+  width: 30%;
+  height: 25px;
+  border-radius:4%;
+    background-color:orange;
+}
+
+.stato-carica-verde{
+  width: 50%;
+  height: 25px;
+  border-radius:4%;
+    background-color:green;
+}
+
+.stato-carica-rosso{
+  width: 15%;
+  height: 25px;
+  border-radius:4%;
+    background-color:red;
+    margin-bottom: 150px;
+}

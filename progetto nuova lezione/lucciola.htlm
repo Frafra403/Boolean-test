@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="lucciola.css">
+    <title>lucciola1</title>
+  </head>
+<body>
+
+
+ <div class="quadrato">
+
+   <!-- LOGO -->
+  <header>
+   <img class="LOGO" src="logo.png" alt="" >
+    <h1 class="LOGOTEXT">Taking Booleaners from A to B</h1>
+  </header>
+
+  <!-- barra di ricerca -->
+  <nav class="barra-ricerca" >
+   <div class="ricerca-text">
+      <input type="submit" name="" value="Prenota">
+      <input type="submit" name="" value="Termina Prenotazione ">
+      <input type="submit" name="" value="Accendi luci  ">
+    </div>
+
+  </nav>
+
+<!-- Contenuto pagina -->
+  <main>
+    <div class="contenuto">
+      <h3>Monopattino Gino22</h3>
+      <p>→Via moltegladella - a 250 metri da te </p>
+      <p>Stato carica:</p>
+      <p class="stato-carica-giallo"></p>
+   </div>
+
+   <div class="contenuto">
+     <h3>Monopattino mike23</h3>
+     <p>→Via RossoMauro - a 490 metri da te </p>
+     <p>Stato carica:</p>
+     <p class="stato-carica-verde"></p>
+
+  </div><div class="contenuto">
+    <h3>Monopattino Gino22</h3>
+    <p>→Via moltegladella - a 250 metri da te </p>
+    <p>Stato carica:</p>
+    <p class="stato-carica-rosso"></p>
+ </div>
+
+
+  </main>
+
+
+
+
+
+
+ </div>
+
+ </body>
+</html>
